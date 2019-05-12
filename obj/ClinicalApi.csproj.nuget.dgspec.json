@@ -63,18 +63,6 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.Owin": {
-              "target": "Package",
-              "version": "[4.0.1, )"
-            },
-            "Microsoft.Owin.Security": {
-              "target": "Package",
-              "version": "[4.0.1, )"
-            },
-            "Owin": {
-              "target": "Package",
-              "version": "[1.0.0, )"
             }
           },
           "imports": [
