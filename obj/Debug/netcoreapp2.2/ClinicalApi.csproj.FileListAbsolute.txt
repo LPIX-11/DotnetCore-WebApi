@@ -1,0 +1,14 @@
+/home/johnson/net-core/ClinicalApi/bin/Debug/netcoreapp2.2/ClinicalApi.deps.json
+/home/johnson/net-core/ClinicalApi/bin/Debug/netcoreapp2.2/ClinicalApi.runtimeconfig.json
+/home/johnson/net-core/ClinicalApi/bin/Debug/netcoreapp2.2/ClinicalApi.runtimeconfig.dev.json
+/home/johnson/net-core/ClinicalApi/bin/Debug/netcoreapp2.2/ClinicalApi.dll
+/home/johnson/net-core/ClinicalApi/bin/Debug/netcoreapp2.2/ClinicalApi.pdb
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.csprojAssemblyReference.cache
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.csproj.CoreCompileInputs.cache
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.RazorAssemblyInfo.cache
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.RazorAssemblyInfo.cs
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.AssemblyInfoInputs.cache
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.AssemblyInfo.cs
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.RazorTargetAssemblyInfo.cache
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.dll
+/home/johnson/net-core/ClinicalApi/obj/Debug/netcoreapp2.2/ClinicalApi.pdb
