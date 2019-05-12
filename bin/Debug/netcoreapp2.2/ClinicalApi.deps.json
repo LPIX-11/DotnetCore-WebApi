@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "1df17939c7563ed7009cbd30549085399d9c8fa6"
+    "signature": "f2bc562481a555daf97942a84c09c4f14174992d"
   },
   "compilationOptions": {
     "defines": [
@@ -28,10 +28,7 @@
           "Microsoft.AspNetCore.Mvc": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.4",
-          "Microsoft.NETCore.App": "2.2.0",
-          "Microsoft.Owin": "4.0.1",
-          "Microsoft.Owin.Security": "4.0.1",
-          "Owin": "1.0.0"
+          "Microsoft.NETCore.App": "2.2.0"
         },
         "runtime": {
           "ClinicalApi.dll": {}
@@ -102,46 +99,6 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
-        }
-      },
-      "Microsoft.Owin/4.0.1": {
-        "dependencies": {
-          "Owin": "1.0.0"
-        },
-        "runtime": {
-          "lib/net45/Microsoft.Owin.dll": {
-            "assemblyVersion": "4.0.1.0",
-            "fileVersion": "4.0.14582.116"
-          }
-        },
-        "compile": {
-          "lib/net45/Microsoft.Owin.dll": {}
-        }
-      },
-      "Microsoft.Owin.Security/4.0.1": {
-        "dependencies": {
-          "Microsoft.Owin": "4.0.1",
-          "Owin": "1.0.0"
-        },
-        "runtime": {
-          "lib/net45/Microsoft.Owin.Security.dll": {
-            "assemblyVersion": "4.0.1.0",
-            "fileVersion": "4.0.14582.116"
-          }
-        },
-        "compile": {
-          "lib/net45/Microsoft.Owin.Security.dll": {}
-        }
-      },
-      "Owin/1.0.0": {
-        "runtime": {
-          "lib/net40/Owin.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        },
-        "compile": {
-          "lib/net40/Owin.dll": {}
         }
       },
       "Remotion.Linq/2.2.0": {
@@ -3341,27 +3298,6 @@
       "sha512": "sha512-e0rW3jJXunnwUCout+lQicDoyviO53qsuawZa/HZsfRoEF/bWGlGTJxUN0MPZVQkEd5Gx8ypdDSRbGHtrQp/SA==",
       "path": "microsoft.entityframeworkcore.sqlserver/2.2.4",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.2.2.4.nupkg.sha512"
-    },
-    "Microsoft.Owin/4.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-J3v8nn9ABr5rm22EOyvndAP/gjP2AnhhfZuI2A7lTPO4+j27SpVv6P/Zs29+/AzSpC8qkE6GIe43vodPMF5DpA==",
-      "path": "microsoft.owin/4.0.1",
-      "hashPath": "microsoft.owin.4.0.1.nupkg.sha512"
-    },
-    "Microsoft.Owin.Security/4.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-4VOvzEBlN+4OQIgsBYCt81cUjJ5ZbuUBZcf/LzqBT5KELskRA9zQ6z/qyh2NPIci8e0z+eJIAMHZTyNDf+QunQ==",
-      "path": "microsoft.owin.security/4.0.1",
-      "hashPath": "microsoft.owin.security.4.0.1.nupkg.sha512"
-    },
-    "Owin/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-OseTFniKmyp76mEzOBwIKGBRS5eMoYNkMKaMXOpxx9jv88+b6mh1rSaw43vjBOItNhaLFG3d0a20PfHyibH5sw==",
-      "path": "owin/1.0.0",
-      "hashPath": "owin.1.0.0.nupkg.sha512"
     },
     "Remotion.Linq/2.2.0": {
       "type": "package",
