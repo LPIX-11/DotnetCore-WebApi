@@ -14,12 +14,12 @@ namespace ClinicalApi.Models
 
         [MaxLength(80, ErrorMessage = "Maximum Surname Length Outpassed"), Required(ErrorMessage = "*")]
         [Display(Name = "Surname")]
-        public string prenomPers { get; set; }
+        public string personSurname { get; set; }
 
 
         [MaxLength(150, ErrorMessage = "Maximum Adress Length Outpassed"), Required(ErrorMessage = "*")]
         [Display(Name = "Adress")]
-        public string adressePers { get; set; }
+        public string personAdress { get; set; }
 
 
         [Required(ErrorMessage = "*")]

@@ -20,7 +20,8 @@ namespace ClinicalApi.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"server=noreyni-X550LB\MSSQLSERVER;integrated security=true;database=ClinicalApi");
+            // Modify the connection strings according to your server
+            optionsBuilder.UseSqlServer(@"Server=clinicalApi\v11.0;Integrated Security=true");
         }
 
 

@@ -14,7 +14,7 @@
         "outputPath": "/home/johnson/net-core/ClinicalApi/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/home/johnson/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "/home/johnson/.nuget/NuGet/NuGet.Config"

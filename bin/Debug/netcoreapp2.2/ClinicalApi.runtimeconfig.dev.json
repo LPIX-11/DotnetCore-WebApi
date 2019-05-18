@@ -3,7 +3,7 @@
     "additionalProbingPaths": [
       "/home/johnson/.dotnet/store/|arch|/|tfm|",
       "/home/johnson/.nuget/packages",
-      "/home/johnson/dotnet/sdk/NuGetFallbackFolder"
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }
