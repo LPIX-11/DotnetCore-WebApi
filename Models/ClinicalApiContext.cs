@@ -21,7 +21,7 @@ namespace ClinicalApi.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             // Modify the connection strings according to your server
-            optionsBuilder.UseSqlServer(@"Server=clinicalApi\v11.0;Integrated Security=true");
+            optionsBuilder.UseSqlServer(@"Server=.;Initial Catalog=ClinicalApi; User ID=admin; Password=clinical@Passwd1");
         }
 
 

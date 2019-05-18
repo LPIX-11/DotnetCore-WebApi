@@ -13,7 +13,7 @@ namespace ClinicalApi.Controllers
     public class PersonController : ControllerBase
     {
         // Declaring rh database context on private and read only
-        private readonly ClinicalApiContext _context;
+        private ClinicalApiContext _context;
 
         public PersonController(ClinicalApiContext context)
         {
