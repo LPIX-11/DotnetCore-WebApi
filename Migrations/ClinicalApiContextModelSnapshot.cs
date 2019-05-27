@@ -70,7 +70,7 @@ namespace ClinicalApi.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("adressePers")
+                    b.Property<string>("personAdress")
                         .IsRequired()
                         .HasMaxLength(150);
 
@@ -96,7 +96,7 @@ namespace ClinicalApi.Migrations
                         .IsRequired()
                         .HasMaxLength(80);
 
-                    b.Property<string>("prenomPers")
+                    b.Property<string>("personSurname")
                         .IsRequired()
                         .HasMaxLength(80);
 

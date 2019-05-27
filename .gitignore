@@ -232,3 +232,14 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# Ignoring request file
+requests.http
+
+# Ignoring Migrations 
+Migrations/
+bin/
+bin/Debug
+obj/
+
+.vscode
